@@ -1,0 +1,378 @@
+.navbar {
+    margin-bottom: 0;
+}
+
+.change-frequency {
+    font-weight: bold;
+    padding: 10px;
+}
+.this-shift {
+    background-color: #ff0000;
+}
+
+.two-shift {
+    background-color: #da029a;
+}
+
+.three-shift {
+    background-color: #004eff;
+}
+
+.four-six-shift {
+    background-color: #ff8400;
+}
+
+.six-twelve-shift {
+    background-color: #fff000;
+}
+
+.five-days-shift {
+    background-color: #00ff0c;
+}
+
+.number {
+    font-size: 50px;
+}
+
+.panel {
+    margin-bottom: 0px;
+}
+.panel-primary {
+    border-color: #cfcdcd;
+}
+
+.panel-primary>.panel-heading {
+    text-align: left;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.panel-primary>.panel-body {
+    min-height: 120px;
+}
+
+.work-space {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.number2 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.table{
+    margin-bottom: 0px;
+	text-transform:uppercase;
+}
+
+h3{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.action-button {
+    text-transform: uppercase;
+    width: 200px;
+    display: block;
+    margin-bottom: 10px;
+}
+.process-table>thead>tr>th {
+    border: 0px;
+    text-align: center;
+}
+
+.process-table>tbody>tr>td {
+    border:0px;
+    height: 25px;
+    text-align: center;
+	    width: 24%;
+		font-size:100px;
+
+}
+
+.current-shift-table {
+    width: 80%;
+    border: 0px;
+}
+
+.current-shift-table>thead>tr>th {
+    border-bottom: 0px;
+    text-align: center;
+}
+
+.current-shift-table>tbody>tr>td {
+    border-top:0px;
+    height: 25px;
+}
+
+@media (min-width: 992px){
+    
+    .form-div{
+        text-align: center;
+    }
+
+    #day_no{
+        width: 50px;
+    }
+
+    #current_time{
+        width: 120px;
+    }
+
+    #hours{
+        width: 50px;
+    }
+}
+
+
+@media only screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px) {
+    .form-div{
+        text-align: center;
+    }
+
+    #day_no{
+        width: 50px;
+    }
+
+    #current_time{
+        width: 120px;
+    }
+
+    #hours{
+        width: 50px;
+    }
+}
+
+#priority_table {
+    overflow: auto;
+}
+
+#barcode_table_div{
+    padding: 20px;
+}
+
+#barcode_table{
+    background-color: white;
+}
+
+.barcode-table>tbody>tr>td {
+    height: 40px;
+}
+
+.current-shift-output {
+    width: 90%;
+    border: 0px;
+}
+
+.current-shift-output>thead>tr>th {
+    border-bottom: 0px;
+    text-align: center;
+    height: 50px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #ffcc99;
+}
+
+.current-shift-output>tbody>tr>td {
+    border-top:0px;
+    height: 50px;
+}
+
+.header-fixed {
+    width: 100%;
+}
+
+.header-fixed > thead,
+.header-fixed > tbody,
+.header-fixed > thead > tr,
+.header-fixed > tbody > tr,
+.header-fixed > thead > tr > th,
+.header-fixed > tbody > tr > td {
+    display: block;
+}
+
+.header-fixed > tbody > tr:after,
+.header-fixed > thead > tr:after {
+    content: ' ';
+    display: block;
+    visibility: hidden;
+    clear: both;
+}
+
+.header-fixed > tbody {
+    overflow-y: auto;
+    height: 500px;
+}
+
+.header-fixed > tbody > tr > td,
+.header-fixed > thead > tr > th {
+
+    float: left;
+}
+
+@media only screen and (min-width: 1200px) {
+    .container {
+        width: 96%;
+    }
+}
+
+
+.main-button {
+    width: 230px;
+    font-size: 15px;
+    margin-right: 9px;
+    margin-bottom: 16px;
+}
+
+.main-button-span {
+    font-size: 19px;
+    padding-top:4px;
+    float: left
+}
+
+.main-button-span2 {
+    font-size: 26px;
+    float: right;
+	    font-weight: bold;
+}
+
+
+.main-button-last{
+    width: 200px;
+	float:right;
+	margin:7px;
+    font-size: 20px;
+}
+
+.table tr>td, tr>th {
+    text-align: center;
+}
+
+.my-alert {
+    position: fixed;
+    top: 5px;
+    left:2%;
+    width: 96%;
+    z-index: 100;
+
+}
+
+.monitor {
+    padding-left: 20px;
+    border: 1px solid #ccc;
+    min-height: 360px;
+    height: 540px;
+    margin-left: 5px;
+    margin-right: 5px;
+	background:white;
+
+}
+
+.logo{
+    margin:-60px 0px 0px 473px;
+    color:#4975b4;
+    text-transform: uppercase;
+}
+
+.topbtn{}
+
+.stopbtn{float: right;
+    margin:-123px 4px 0px 0px}
+	
+	
+.btn-danger2{
+    background: #FF5722;
+    color: white;}
+
+.btn-danger3{
+    font-size: 25px;
+	margin:1px 22px 0px -67px;
+
+    text-transform: uppercase;
+    font-weight: bold;
+    height: 89px;
+	background:#F00;
+	color:white;}
+	
+	.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+    font-weight: bold;
+    color: white;
+    font-size: 19px;
+    cursor: default;
+    background-color: #2196F3;
+    border: 1px solid #ddd;
+    border-bottom-color: transparent;
+}
+
+.nav-tabs>li>a {
+     margin-right: 2px;
+    line-height: 1.42857143;
+    border: 1px solid transparent;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-radius: 4px 4px 0 0;
+
+}
+
+.h4, h4 {
+    font-size: 19px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.nav-tabs {
+    border-bottom: 1px solid #ddd;
+    padding-top: 20px;
+}
+
+
+.amcharts-title {
+    text-transform: uppercase;
+}
+
+.tspan {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+
+span#stop_time_change {
+    margin: 107px -74px 0px 0px;
+    float: left;
+}
+.tops{
+    background: rgba(0, 0, 0, 0) linear-gradient(to bottom, rgba(116, 146, 190, 1) 0%, rgba(67, 111, 162, 1) 60%, rgba(55, 105, 155, 1) 100%) repeat scroll 0 0;
+    color: #fff;
+    font-size: 16px;
+    height: 53px;
+    font-weight: bold;
+    padding: 2px 0 1px;
+    margin: -1px -1px 10px -20px;
+    text-align: center;}
+	
+.h3, h3 {
+	margin-top:12px;
+}
+
+.memall{
+    width:100%;
+    position:fixed;
+}
+	
+.allobox{}
+
+.line-display>thead>tr>th {
+    background-color: #4975b4;
+    color: #fff;
+    font-weight: bold;
+    text-align: center;
+    font-size: 14px;
+}
+
+.line-display>tbody>tr>td, .line-display>thead>tr>th {
+    border: 1px solid #4975b4;
+}
