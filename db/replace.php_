@@ -1,0 +1,9 @@
+<?php
+
+
+$path_to_file = 'Dump20181010.sql';
+$file_contents = file_get_contents($path_to_file);
+$file_contents = str_replace("utf8mb4_0900_ai_ci","utf8mb4_general_ci",$file_contents);
+file_put_contents('Dump20181010_replacted.sql',$file_contents);
+
+?>

@@ -1,0 +1,6 @@
+[10-Oct-2018 18:52:09 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 405459853 bytes) in /home/kerroumi/public_html/lptrace/replace.php on line 4
+[10-Oct-2018 18:56:59 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 405459853 bytes) in /home/kerroumi/public_html/lptrace/replace.php on line 4
+[10-Oct-2018 18:57:58 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 405459853 bytes) in /home/kerroumi/public_html/lptrace/replace.php on line 4
+[10-Oct-2018 19:00:28 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 405459853 bytes) in /home/kerroumi/public_html/lptrace/replace.php on line 5
+[10-Oct-2018 19:00:44 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 405459853 bytes) in /home/kerroumi/public_html/lptrace/replace.php on line 5
+[10-Oct-2018 19:01:35 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 405459853 bytes) in /home/kerroumi/public_html/lptrace/replace.php on line 5
