@@ -1,0 +1,34 @@
+[07-Feb-2019 19:32:16 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/faronline/public_html/lptrace/results.php on line 596
+[08-Feb-2019 00:24:52 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/faronline/public_html/lptrace/results.php on line 655
+[08-Feb-2019 00:37:15 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/faronline/public_html/lptrace/results.php on line 655
+[08-Feb-2019 10:15:02 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/faronline/public_html/lptrace/results.php on line 657
+[08-Feb-2019 12:01:35 UTC] PHP Warning:  mysqli_num_fields() expects parameter 1 to be mysqli_result, boolean given in /home/faronline/public_html/lptrace/results-export.php on line 421
+[08-Feb-2019 12:01:35 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/faronline/public_html/lptrace/results-export.php on line 432
+[08-Feb-2019 12:02:05 UTC] PHP Warning:  mysqli_num_fields() expects parameter 1 to be mysqli_result, boolean given in /home/faronline/public_html/lptrace/results-export.php on line 421
+[08-Feb-2019 12:02:05 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/faronline/public_html/lptrace/results-export.php on line 432
+[08-Feb-2019 12:03:22 UTC] PHP Warning:  mysqli_num_fields() expects parameter 1 to be mysqli_result, boolean given in /home/faronline/public_html/lptrace/results-export.php on line 421
+[08-Feb-2019 12:03:22 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/faronline/public_html/lptrace/results-export.php on line 432
+[26-Feb-2019 17:30:52 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/faronline/public_html/lptrace/settings.php on line 9
+[26-Feb-2019 17:30:52 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, boolean given in /home/faronline/public_html/lptrace/settings.php on line 51
+[26-Feb-2019 17:30:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/faronline/public_html/lptrace/settings.php on line 140
+[26-Feb-2019 17:30:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/faronline/public_html/lptrace/settings.php on line 160
+[26-Feb-2019 17:30:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/faronline/public_html/lptrace/settings.php on line 180
+[26-Feb-2019 17:30:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/faronline/public_html/lptrace/settings.php on line 200
+[26-Feb-2019 17:30:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/faronline/public_html/lptrace/settings.php on line 233
+[26-Feb-2019 17:30:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/faronline/public_html/lptrace/settings.php on line 253
+[26-Feb-2019 17:30:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/faronline/public_html/lptrace/settings.php on line 273
+[26-Feb-2019 17:30:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/faronline/public_html/lptrace/settings.php on line 293
+[26-Feb-2019 17:30:52 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/faronline/public_html/lptrace/settings.php on line 351
+[26-Feb-2019 17:30:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/faronline/public_html/lptrace/settings.php on line 366
+[26-Feb-2019 17:31:28 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/faronline/public_html/lptrace/settings.php on line 9
+[26-Feb-2019 17:31:28 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, boolean given in /home/faronline/public_html/lptrace/settings.php on line 51
+[26-Feb-2019 17:31:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/faronline/public_html/lptrace/settings.php on line 140
+[26-Feb-2019 17:31:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/faronline/public_html/lptrace/settings.php on line 160
+[26-Feb-2019 17:31:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/faronline/public_html/lptrace/settings.php on line 180
+[26-Feb-2019 17:31:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/faronline/public_html/lptrace/settings.php on line 200
+[26-Feb-2019 17:31:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/faronline/public_html/lptrace/settings.php on line 233
+[26-Feb-2019 17:31:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/faronline/public_html/lptrace/settings.php on line 253
+[26-Feb-2019 17:31:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/faronline/public_html/lptrace/settings.php on line 273
+[26-Feb-2019 17:31:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/faronline/public_html/lptrace/settings.php on line 293
+[26-Feb-2019 17:31:28 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/faronline/public_html/lptrace/settings.php on line 351
+[26-Feb-2019 17:31:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/faronline/public_html/lptrace/settings.php on line 366
